@@ -23,5 +23,5 @@
 
 5. 選擇隨附的 WordCards.txt 檔案即可成功載入並顯示單字列表。
 
-📸 執行截圖 (Screenshot)
+##📸 執行截圖 (Screenshot)
 <img width="795" height="475" alt="TSVFile_example" src="https://github.com/user-attachments/assets/7c134600-14e3-43c5-8a4e-f89f807eeea9" />
